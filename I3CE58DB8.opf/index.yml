@@ -1,0 +1,9 @@
+id: 7c0c931bfddf431ca33fd46a1abf00c6
+annotation_type: index
+revision: '00001'
+annotations:
+  9e253f89222c4d5fb28d09cea1c8f52e:
+    base: fB011.txt
+    span:
+      start: 0
+      end: 810
